@@ -3,3 +3,6 @@ WeatherNow is a simple and modest weather app that allows input for the users lo
 
 ### Interface
 Depending on the city input at the top by the user, the text displaying the temperature and the icon displaying the current weather status for the chosen location will update. 
+
+
+![alt text](https://i.ibb.co/yN4ydMB/Interface.png)
